@@ -5,11 +5,11 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto bot but iam not comming !!!!😉
+<i>✴️ JOIN OUR CHANNEL ✴️😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+🚩 ചാനലിൽ ജോയിൻ ആകാതെ സിനിമ ഒന്നും കിട്ടില്ല , അതുകൊണ്ട് ഉടനെ തന്നെ ജോയിൻ ആയിക്കോ 🚩🚩
 
-For More Details Click Help Button Below..
+For More Movies our group Below..
 @malayalam_cinema_group
 </i>"""    
     
@@ -17,19 +17,9 @@ For More Details Click Help Button Below..
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me  but iam not comming !!! 🤡
--> Add Me To Your Desired Channel പക്ഷെ work ആകില്ല !!!🔥
+-> sorry 🚩
+-> sorry i cant help you 🔐
 </i>
-
-<b>Bot Commands (Works Only In Groups) :</b>
-
-    -> <code>/🔥🔥🔥🔥🔥🔥</code>
-                OR                  -  Full Previlages In Bot but പോടാ....❗❗⚡
-     <code>/⚡⚡⚡⚡⚡⚡⚡⚡⚡</code>
-     
-    -> <code>/😍😍😍😍😍</code>
-                OR                  - no go man go ⚡⚡⚡
-     <code>/😍😍@😍😍😍😍</code>
      
             
 @malayalam_cinema_group
