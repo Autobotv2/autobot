@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = f"{file_name} \n @malayalam_cinema_group",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    '💠 Group 💠', url="https://t.me/malayalam_cinema_group"
+                                    '💠 JOIN OUR CHANNEL 💠', url="https://t.me/malayalam_films_channel"
                                 )
                         ]
                     ]
@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('⚠ Join our group ⚠', url='https://t.me/malayalam_cinema_group'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('DOWNLOAD MOVIES', url='https://t.me/malayalam_cinema_group')
       
     ]]
     
